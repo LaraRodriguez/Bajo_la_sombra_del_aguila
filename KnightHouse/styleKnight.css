@@ -1,0 +1,30 @@
+body{
+    background: url("../images/Papiro.jpg");
+}
+@font-face{
+    font-family: "AlanisHand";
+    src: url("../templates/alanis-hand/AlanisHand.ttf");
+    font-family: "james";
+    src: url("../templates/james-fajardo/James\ Fajardo.ttf");
+}
+
+p{
+    font-family: "james";
+    text-align: center;
+    font-size: 40px;
+}
+h1{
+    font-family: "james";
+    font-size: 60px;
+    text-align: center;
+}
+header{
+    font-family: "james";
+    text-align: center;
+    font-size: 50px;
+}
+#botones{
+    margin-left: 45%;
+    font-family: "james";
+    font-size: 30px;
+}
